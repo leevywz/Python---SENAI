@@ -1,3 +1,5 @@
+#1--
+
 n1 = 4 
 n2 = 6 
 
@@ -5,7 +7,7 @@ r = (n1 * n2)/2
 
 print('Resultado;', r)
 
-r = (n1 * n2)/2
+#2--
 
 n1 = 5
 n2 = 7
@@ -14,9 +16,13 @@ soma = n1 + n2
 
 print('Resultado:', soma)
 
+#3--
+
 n1 = 3
 r = n1 ** 4
 print ('Resultado', r)
+
+#4--
 
 n1 = 8
 n2 = 12
@@ -26,12 +32,16 @@ media = (8 + 12 + 15)/3
 
 print ('Resultado', round(media))
 
+#5--
+
 n1 = 10
 n2 = 2
 
 r = (n2 - n1) * 5
 
 print ('Resultado', r)
+
+#6
 
 n1 = 27
 n2 = 3
