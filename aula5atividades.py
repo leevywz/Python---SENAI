@@ -41,7 +41,7 @@ r = (n2 - n1) * 5
 
 print ('Resultado', r)
 
-#6
+#6--
 
 n1 = 27
 n2 = 3
